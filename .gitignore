@@ -1,0 +1,22 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.pdb
+*.exe
+*.dll
+*.obj
+*.log
+
+# Build folders
+bin/
+obj/
+OutDir/
+
+# Temp files
+*.tmp
+*.cache
+*.vsidx
+
+# Boost
+boost/
